@@ -1,0 +1,5 @@
+[Files]
+"Appx\ExplorerCommandVerb.dll"  "ExplorerCommandVerb.dll"
+"Appx\AppxManifest.xml"                 "AppxManifest.xml"
+"Appx\Assets\Logo_44x44.png"            "Assets\Logo_44x44.png"
+"Appx\Assets\Logo_150x150.png"          "Assets\Logo_150x150.png"
